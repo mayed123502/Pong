@@ -1,4 +1,4 @@
-# flutter_book
+# Pong game with Flutter
 
 A new Flutter project.
 
