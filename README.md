@@ -1,16 +1,9 @@
 # Pong game with Flutter
 
-A new Flutter project.
+Pong Game - 2D Animations
 
-## Getting Started
+![2](https://user-images.githubusercontent.com/80541747/161212792-ef16f52f-4b3a-4c3a-bf36-a0d11843bb5d.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![1](https://user-images.githubusercontent.com/80541747/161212802-c0d62443-1d7f-4a92-be3b-105a80508b4a.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
